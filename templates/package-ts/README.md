@@ -4,6 +4,7 @@ Template generated with `@riadh-adrani/create-package`
 
 ## TODO
 
-- add `NPM` secret key to Github.
-- provide read/write access for github actions. 
+- Rename `npmignore` to `.npmignore`
+- Add `NPM` secret key to Github.
+- Provide read/write access for github actions. 
 

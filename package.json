@@ -1,7 +1,7 @@
 {
   "name": "@riadh-adrani/create-package",
   "description": "creates a starter package with Typescript.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "bin": "./bin/bin.js",
   "main": "./index.js",
   "license": "MIT",

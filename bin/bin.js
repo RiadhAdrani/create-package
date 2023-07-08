@@ -231,6 +231,7 @@ async function init() {
       break;
   }
 
+  console.log();
   console.log(green(`Don't forget to check the README.md for the next steps !`));
   console.log();
 }

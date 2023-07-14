@@ -1,9 +1,9 @@
 {
   "name": "@riadh-adrani/package-ts",
-  "description": "Javascript string utilities",
+  "description": "Javascript library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RiadhAdrani/str-utils"
+    "url": "https://github.com"
   },
   "version": "0.0.0",
   "type": "module",
